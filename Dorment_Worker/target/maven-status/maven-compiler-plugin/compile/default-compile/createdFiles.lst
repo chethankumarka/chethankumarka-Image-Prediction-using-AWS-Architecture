@@ -1,0 +1,4 @@
+ImagePrediction/S3JavaUtility.class
+ImagePrediction/EC2JavaUtility.class
+ImagePrediction/SQSJavaUtility.class
+ImagePrediction/PredictImagesAndStoreInS3.class

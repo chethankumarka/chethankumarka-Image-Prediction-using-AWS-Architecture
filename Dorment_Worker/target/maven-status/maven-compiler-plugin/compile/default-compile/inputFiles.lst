@@ -1,0 +1,4 @@
+/var/www/html/CloudComputing/App_maven/src/main/java/ImagePrediction/S3JavaUtility.java
+/var/www/html/CloudComputing/App_maven/src/main/java/ImagePrediction/PredictImagesAndStoreInS3.java
+/var/www/html/CloudComputing/App_maven/src/main/java/ImagePrediction/EC2JavaUtility.java
+/var/www/html/CloudComputing/App_maven/src/main/java/ImagePrediction/SQSJavaUtility.java
